@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException  {
+    public static void main(String[] args) throws IOException {
 //
 //        House h1 = new House();
 //        LivingRoom lr = new LivingRoom();
@@ -55,9 +55,7 @@ public class Main {
         s.takeInput();
 
 
-
-
-
+        System.out.println("nini");
 
 
     }
