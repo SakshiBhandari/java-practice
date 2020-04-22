@@ -8,4 +8,20 @@ public class Number {
             System.out.println("The number is odd.");
         }
     }
+
+    public void calculateOddNumber() {
+
+        int number = 3;
+        switch (number){
+            case 1:
+                System.out.println("Number is even");
+                break;
+            case 3:
+                System.out.println("Number is odd");
+                break;
+             default:
+                 System.out.println("I dont have an answer");
+        }
+
+    }
 }
