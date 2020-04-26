@@ -20,6 +20,7 @@ public class ClosestToTen {
         }
     }
 
+
     public static int abs(int a) {
         if (a < 0) {
             return -a;
