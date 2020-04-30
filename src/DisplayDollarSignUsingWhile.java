@@ -6,7 +6,7 @@ public class DisplayDollarSignUsingWhile {
     //Don't separate the symbols in each line.
 
     public static void main(String[] args) throws Exception {
-        //write your code here
+
         int a = 10;
         int b = 10;
 
@@ -16,7 +16,7 @@ public class DisplayDollarSignUsingWhile {
                 b--;
             }
             b = 10;
-            System.out.println("");
+            System.out.println(" ");
             a--;
         }
 
