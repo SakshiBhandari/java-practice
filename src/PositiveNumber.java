@@ -23,7 +23,7 @@ public class PositiveNumber {
             }
 
         }
-        System.out.println("Positive numbe:" + count);
+        System.out.println("Positive number:" + count);
     }
 }
 
